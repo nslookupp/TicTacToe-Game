@@ -7,7 +7,7 @@
 #include <chrono> // I included this in order to use sleep function.
 #include <iostream>
 
-#define tableSize 10 
+#define tableSize 10 // table size in this case 3x3 board
 
 using namespace std;
 
