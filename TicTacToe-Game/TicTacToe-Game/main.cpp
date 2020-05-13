@@ -5,7 +5,6 @@ using namespace std;
 
 int main(void)
 {
-	int test;
 	int gameStatus; // variable to store return value that indicates current game status
 	TicTacToe gameObj; // TicTacToe class instance (object)
 
