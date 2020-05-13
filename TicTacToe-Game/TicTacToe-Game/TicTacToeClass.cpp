@@ -2,7 +2,7 @@
 
 TicTacToe::TicTacToe()
 {
-	int asciiNum = 48;
+	int asciiNum = 48; // 48 is int equivalent of char '0'
 	player = 1;
 	choice = 0;
 
